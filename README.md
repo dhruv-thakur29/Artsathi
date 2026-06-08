@@ -47,6 +47,7 @@ ArthSathi is an AI-powered personal finance ecosystem built to simplify financia
 -AI-powered financial guidance
 
 🛠️ Technology Stack:-
+
 Frontend:
 -HTML5
 -CSS3
@@ -74,7 +75,3 @@ ArthSathi aims to become a comprehensive digital financial companion for India, 
 -Financial Education
 -Modern Responsive Dashboard
 -India-Centric Financial Solutions
-
-web-application
-
-This version is polished enough for hackathons, internships, Google applications, LinkedIn projects, and GitHub portfolio showcases.
